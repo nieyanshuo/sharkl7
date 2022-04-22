@@ -14,8 +14,7 @@ module digital_top(
  end
 assign out = upd_ff;
 //hello world
-// a= a+1
-// b= b0;
+// b= b0+1;
 // cc=cc
 
 endmodule
